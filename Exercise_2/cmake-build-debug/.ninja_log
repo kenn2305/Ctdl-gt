@@ -1,0 +1,25 @@
+# ninja log v6
+12	177	7535471768362849	CMakeFiles/Exercise_2.dir/main.cpp.obj.ddi	4215cfd7ada4cf80
+177	202	7535471770011247	CMakeFiles/Exercise_2.dir/main.cpp.obj.modmap	790b1b204d499cc
+177	202	7535471770011247	CMakeFiles/Exercise_2.dir/CXX.dd	790b1b204d499cc
+177	202	7535471770011247	D:/Program/Exercise_2/cmake-build-debug/CMakeFiles/Exercise_2.dir/CXXModules.json	790b1b204d499cc
+203	673	7535471770273038	CMakeFiles/Exercise_2.dir/main.cpp.obj	68512e411138cff1
+673	804	7535471774970028	Exercise_2.exe	1d847500c2848740
+11	111	7535472624171786	CMakeFiles/Exercise_2.dir/main.cpp.obj.ddi	4215cfd7ada4cf80
+112	129	7535472625176364	CMakeFiles/Exercise_2.dir/CXX.dd	790b1b204d499cc
+112	129	7535472625176364	D:/Program/Exercise_2/cmake-build-debug/CMakeFiles/Exercise_2.dir/CXXModules.json	790b1b204d499cc
+112	129	7535472625176364	CMakeFiles/Exercise_2.dir/main.cpp.obj.modmap	790b1b204d499cc
+130	506	7535472625366627	CMakeFiles/Exercise_2.dir/main.cpp.obj	68512e411138cff1
+506	618	7535472629127392	Exercise_2.exe	1d847500c2848740
+22	181	7535475639745154	CMakeFiles/Exercise_2.dir/main.cpp.obj.ddi	4215cfd7ada4cf80
+181	206	7535475641342432	CMakeFiles/Exercise_2.dir/CXX.dd	790b1b204d499cc
+181	206	7535475641342432	D:/Program/Exercise_2/cmake-build-debug/CMakeFiles/Exercise_2.dir/CXXModules.json	790b1b204d499cc
+181	206	7535475641342432	CMakeFiles/Exercise_2.dir/main.cpp.obj.modmap	790b1b204d499cc
+207	701	7535475641596932	CMakeFiles/Exercise_2.dir/main.cpp.obj	68512e411138cff1
+701	815	7535475646540123	Exercise_2.exe	1d847500c2848740
+23	120	7535479391444912	CMakeFiles/Exercise_2.dir/main.cpp.obj.ddi	4215cfd7ada4cf80
+120	137	7535479392415361	CMakeFiles/Exercise_2.dir/CXX.dd	790b1b204d499cc
+120	137	7535479392415361	D:/Program/Exercise_2/cmake-build-debug/CMakeFiles/Exercise_2.dir/CXXModules.json	790b1b204d499cc
+120	137	7535479392415361	CMakeFiles/Exercise_2.dir/main.cpp.obj.modmap	790b1b204d499cc
+138	494	7535479392596253	CMakeFiles/Exercise_2.dir/main.cpp.obj	68512e411138cff1
+494	575	7535479396151332	Exercise_2.exe	1d847500c2848740

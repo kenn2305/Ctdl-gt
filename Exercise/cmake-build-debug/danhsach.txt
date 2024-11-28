@@ -1,0 +1,33 @@
+Danh sach sinh vien : 
+Sinh vien thu 1 : 
+   Ho va ten sinh vien : Nguyen Van A
+   Ma sinh vien : 22222222
+   Dia chi cua sinh vien : Phu Tho
+   Tuoi cua sinh vien : 18
+   Diem trung binh cua sinh vien : 4.3
+   Hoc luc cua sinh vien : Trung binh
+
+Sinh vien thu 2 : 
+   Ho va ten sinh vien : Nguyen Van B
+   Ma sinh vien : 33333333
+   Dia chi cua sinh vien : Nam Dinh
+   Tuoi cua sinh vien : 19
+   Diem trung binh cua sinh vien : 7.8
+   Hoc luc cua sinh vien : Kha
+
+Sinh vien thu 3 : 
+   Ho va ten sinh vien : Nguyen Van C
+   Ma sinh vien : 44444444
+   Dia chi cua sinh vien : Vinh Phuc
+   Tuoi cua sinh vien : 18
+   Diem trung binh cua sinh vien : 8.9
+   Hoc luc cua sinh vien : Gioi
+
+Sinh vien thu 4 : 
+   Ho va ten sinh vien : Nguyen Van D
+   Ma sinh vien : 55555555
+   Dia chi cua sinh vien : Thai Binh
+   Tuoi cua sinh vien : 20
+   Diem trung binh cua sinh vien : 2.5
+   Hoc luc cua sinh vien : Yeu
+

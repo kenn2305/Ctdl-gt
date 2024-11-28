@@ -1,0 +1,24 @@
+Nguyen Van A
+Phu Tho
+22222222
+18
+4.3
+Trung binh
+Nguyen Van B
+Nam Dinh
+33333333
+19
+7.8
+Kha
+Nguyen Van C
+Vinh Phuc
+44444444
+18
+8.9
+Gioi
+Nguyen Van D
+Thai Binh
+55555555
+20
+2.5
+Yeu
